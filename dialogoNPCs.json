@@ -2,10 +2,10 @@
   "c2array": true,
   "size": [5, 1, 2],
   "data": [
-    [["Hola viajero, bienvenido a nuestra aldea.", "Anciano"]],
-    [["Necesitamos tu ayuda para recuperar la gema sagrada.", "Anciano"]],
-    [["Se encuentra en la cueva oscura al otro lado del bosque.", "Guardián"]],
-    [["Pero cuidado, está protegida por una criatura legendaria.", "Guardián"]],
-    [["Confío en ti, toma esta espada para tu viaje.", "Anciano"]]
+    [["Hola Megaman, estas preparado para tu final?", "Jefe"]],
+    [["Si logras derrotarme podras continuar hasta obtener tu objetivo.", "Jefe"]],
+    [["Derrotarte sera sencillo.", "Megaman"]],
+    [["un par de golpes y podre continuar.", "Megaman"]],
+    [["te advierto, no sera nada facil, ¡A pelear!.", "Jefe"]]
   ]
 }
